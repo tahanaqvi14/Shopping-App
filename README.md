@@ -1,8 +1,11 @@
 # Shopping-App
-**This sentence is bold.**
 
-__This sentence is also bold.__
-# This is the largest header (H1)
-## This is a slightly smaller header (H2)
-### This is even smaller (H3)
-#### And so on...
+## All modules used in the project are built-in in python.
+
+## Instruction 1
+There is no user logged in at the start so you are free to make a new account.
+
+## Instruction 2
+Download the file "App" and folders "images","Userbasicdata" and "Userdata". Place these file and folders in the same folder.
+
+#### Feel free to reach incase any error occurs during the program execution
