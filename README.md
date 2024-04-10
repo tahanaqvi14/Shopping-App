@@ -4,7 +4,7 @@
 No need to install any module.
 
 ## Instruction 1
-There is no user logged in at the start so you are free to make a new account.
+No account is created. Feel free to make an account.
 
 ## Instruction 2
 Download the file "App" and folders "images","Userbasicdata" and "Userdata". Place these file and folders in the same folder.
