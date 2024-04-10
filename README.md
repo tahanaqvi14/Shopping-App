@@ -1,6 +1,7 @@
 # Shopping-App
 
-## All modules used in the project are built-in in python.
+## All modules used in the project are built-in Python modules.
+No need to install any module.
 
 ## Instruction 1
 There is no user logged in at the start so you are free to make a new account.
